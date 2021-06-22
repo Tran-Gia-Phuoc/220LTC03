@@ -1,0 +1,174 @@
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\TestUngDung.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\TestUngDung.pdb
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\csc.exe
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\csi.exe
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\EntityFramework.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\ModelEF.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\WebGrease.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\ModelEF.pdb
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\ModelEF.dll.config
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\EntityFramework.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\obj\Debug\TestUngDung.pdb
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\PagedList.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\PagedList.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\TestUngDung\bin\PagedList.Mvc.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\TestUngDung.dll.config
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\TestUngDung.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\TestUngDung.pdb
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\csc.exe
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\csc.exe.config
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\csc.rsp
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\csi.exe
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\csi.exe.config
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\csi.rsp
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.AppContext.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Console.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.IO.Compression.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.IO.Pipes.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Security.AccessControl.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Security.Claims.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.ValueTuple.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\vbc.exe
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\vbc.exe.config
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\vbc.rsp
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\VBCSCompiler.exe
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\Antlr3.Runtime.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\EntityFramework.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\EntityFramework.SqlServer.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\ModelEF.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\Newtonsoft.Json.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\PagedList.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\PagedList.Mvc.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.Helpers.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.Mvc.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.Optimization.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.Razor.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.WebPages.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.WebPages.Razor.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\WebGrease.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\ModelEF.pdb
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\ModelEF.dll.config
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\EntityFramework.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\EntityFramework.SqlServer.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\PagedList.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\PagedList.Mvc.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.Helpers.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.Mvc.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.Optimization.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.Razor.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.WebPages.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\System.Web.WebPages.Razor.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\Newtonsoft.Json.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\Antlr3.Runtime.pdb
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\obj\Debug\TestUngDung.csproj.AssemblyReference.cache
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\obj\Debug\TestUngDung.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\TestUngDung\obj\Debug\TestUngDung.pdb

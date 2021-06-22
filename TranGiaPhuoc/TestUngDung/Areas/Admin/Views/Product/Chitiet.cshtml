@@ -1,0 +1,77 @@
+﻿@model ModelEF.Model.Product
+
+@{
+    ViewBag.Title = "Chitiet";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    <i class="fa fa-user"></i>&nbsp;Chi tiet
+}
+
+<div>
+    <h4>Product</h4> <hr/>
+    <dl>
+        <dt>
+            <img src="@Url.Content("~/anh/" + Model.Image)" height="200" width="200" />
+        </dt>
+
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.UnitCost)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.UnitCost)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Quantily)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Quantily)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Status)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Status)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ID_category)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ID_category)
+            </dd>
+        </dl>
+    </dl>
+
+    <div class="btn btn-default">
+        @Html.ActionLink("Chỉnh sửa", "Edit", new { id = Model.ID })
+    </div>
+
+    <div class="btn btn-default">
+        @Html.ActionLink("Trở lại Danh sách", "Index")
+    </div>
+</div>

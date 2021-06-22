@@ -1,0 +1,32 @@
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\PagedList.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\PagedList.xml
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\Kha Nguyen\source\repos\NgLTTieuKha\ModelEF\bin\Debug\PagedList.Mvc.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\obj\Debug\ModelEF.csproj.AssemblyReference.cache
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\obj\Debug\ModelEF.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\obj\Debug\ModelEF.pdb
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\ModelEF.dll.config
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\ModelEF.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\ModelEF.pdb
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\EntityFramework.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\PagedList.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\PagedList.Mvc.dll
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\EntityFramework.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\PagedList.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\bin\Debug\PagedList.Mvc.xml
+E:\DOCUMENTS\Lập Trình C#\Kiểm Tra Cuối Kỳ\TranGiaPhuoc\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
